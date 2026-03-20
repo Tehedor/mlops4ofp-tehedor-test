@@ -1,0 +1,7 @@
+variants:
+  v001:
+    created_at: '2026-03-20T12:52:21.496170+00:00'
+    params_path: /home/tehe/Work/tfm/mlops4ofp/mlops-tehedor/executions/01_explore/v001/params.yaml
+  v002:
+    created_at: '2026-03-20T12:52:24.900427+00:00'
+    params_path: /home/tehe/Work/tfm/mlops4ofp/mlops-tehedor/executions/01_explore/v002/params.yaml
