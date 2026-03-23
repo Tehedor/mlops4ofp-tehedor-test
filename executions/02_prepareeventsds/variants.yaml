@@ -1,0 +1,4 @@
+variants:
+  v011:
+    created_at: '2026-03-23T08:08:50.876458+00:00'
+    params_path: /home/tehe/Work/tfm/mlops4ofp/mlops-tehedor/executions/02_prepareeventsds/v011/params.yaml
